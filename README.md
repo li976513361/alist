@@ -139,3 +139,8 @@ The `AList` is open-source software licensed under the AGPL-3.0 license.
 ---
 
 > [@Blog](https://nn.ci/) · [@GitHub](https://github.com/alist-org) · [@TelegramGroup](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
+
+
+## Personal maintenance
+
+See [MAINTENANCE.md](MAINTENANCE.md) for this fork's update and rollback checklist.
